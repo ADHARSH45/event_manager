@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
-import EventForm from './components/EventForm';
-import EventList from './components/EventList';
+import EventForm from './EventForm';
+import EventList from './EventList';
 import './App.css'
 
 
